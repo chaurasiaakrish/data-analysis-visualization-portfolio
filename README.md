@@ -14,7 +14,7 @@ This repository contains my solutions and implementations for the **CodeChef Dat
 | Problem Name | Status | Difficulty | Solution |
 | :--- | :---: | :---: | :--- |
 | Exam Marks Statistics Project | 🟢 Solved | `850` | [View Code](./01-netflix-to-personal-finance/01-exam-marks-statistics) |
-| Netflix Library Explorer Project | ⚪ Pending | `750` | [View Code](./01-netflix-to-personal-finance/02-netflix-library-explorer) |
+| Netflix Library Explorer Project | 🟢 Solved | `750` | [View Code](./01-netflix-to-personal-finance/02-netflix-library-explorer) |
 | Monthly Sales Visualization Project | ⚪ Pending | `650` | *Coming Soon* |
 | Penguin Species Explorer Project | ⚪ Pending | `750` | *Coming Soon* |
 | Personal Financial Analysis System Project | ⚪ Pending | `1050` | *Coming Soon* |

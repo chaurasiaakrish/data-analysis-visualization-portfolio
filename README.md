@@ -28,7 +28,7 @@ This repository contains my solutions and implementations for the **CodeChef Dat
 
 | Problem Name | Status | Difficulty | Solution |
 | :--- | :---: | :---: | :--- |
-| Fitness Activity Data Analysis | ⚪ Pending | - | *Coming Soon* |
+| Fitness Activity Data Analysis | 🟢 Solved | `750` |  [View Code](./02-fitness-media-and-salaries/01-fitness-activity-data-analysis) |
 | Course Enrollment Data Cleaning | ⚪ Pending | - | *Coming Soon* |
 | YouTube Engagement Patterns | ⚪ Pending | - | *Coming Soon* |
 | Global Salary Trends Comparison | ⚪ Pending | - | *Coming Soon* |

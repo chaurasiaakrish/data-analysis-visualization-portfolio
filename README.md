@@ -18,7 +18,7 @@ This repository contains my solutions and implementations for the **CodeChef Dat
 | Monthly Sales Visualization Project | 🟢 Solved | `650` | [View Code](./01-netflix-to-personal-finance/03-monthly-sales-visualization)|
 | Penguin Species Explorer Project | 🟢 Solved | `750` |  [View Code](./01-netflix-to-personal-finance/04-penguin-species-explorer) |
 | Personal Financial Analysis System Project | 🟢 Solved | `1050` | [View Code](./01-netflix-to-personal-finance/05-personal-financial-analysis) |
-| Social Media Engagement Analyzer Project | ⚪ Pending | `950` | *Coming Soon* |
+| Social Media Engagement Analyzer Project | 🟢 Solved | `950` | [View Code](./01-netflix-to-personal-finance/06-social-media-engagement-analyzer) |
 
 ---
 

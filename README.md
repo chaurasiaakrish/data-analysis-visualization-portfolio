@@ -30,7 +30,7 @@ This repository contains my solutions and implementations for the **CodeChef Dat
 | :--- | :---: | :---: | :--- |
 | Fitness Activity Data Analysis | 🟢 Solved | `750` |  [View Code](./02-fitness-media-and-salaries/01-fitness-activity-data-analysis) |
 | Course Enrollment Data Cleaning | 🟢 Solved | `750` |  [View Code](./02-fitness-media-and-salaries/02-online-course-enrollment-data-cleaner) |
-| YouTube Engagement Patterns | ⚪ Pending | - | *Coming Soon* |
+| YouTube Engagement Patterns | 🟢 Solved | `850` | [View Code](./02-fitness-media-and-salaries/03-youtube-engagement-analysis) |
 | Global Salary Trends Comparison | ⚪ Pending | - | *Coming Soon* |
 
 ---

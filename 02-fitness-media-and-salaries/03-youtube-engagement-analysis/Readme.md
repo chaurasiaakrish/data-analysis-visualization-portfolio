@@ -15,10 +15,10 @@ Build a multi-chart video analytics script using **Pandas**, **NumPy**, and **Ma
 ## Visualizations
 
 ### Views vs Likes (Bubble Scatter Plot)
-![Views vs Likes](./views_vs_likes.png)
+![Views vs Likes](./sactter_plot.png)
 
 ### Engagement Analysis: Likes vs Comments (Grouped Bar Chart)
-![Engagement Analysis: Likes vs Comments](./likes_vs_comments.png)
+![Engagement Analysis: Likes vs Comments](./bar_chart.png)
 
 ## Key Learnings & Notes
 * **Matplotlib Scatter Arguments (`plt.scatter`):** Unlike Seaborn, Matplotlib's `plt.scatter()` takes DataFrame columns directly as positional arguments (`df['views']`, `df['likes']`) rather than a `data=` DataFrame with string names, and uses `s=` for marker area scaling.
